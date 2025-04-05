@@ -1,8 +1,8 @@
 ### Hello there 👋
 Linux user happy to learn new thing related to technology
 
-Searching github repos for contribution
-![image](https://github.com/user-attachments/assets/384e473f-7826-4c89-8174-756aff334503)
+
+<img src="https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif">
 
 <!--
 **SuperNova70/SuperNova70** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
